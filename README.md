@@ -1,5 +1,5 @@
 #            BenevoLens
-An Deep Learning Powered Platform for Bias Detection in Workplace and Social Environments
+BenevoLens A Deep Learning Powered Platform for Bias Detection in Workplace and Social Environments
 
 
 https://benevolens.net
