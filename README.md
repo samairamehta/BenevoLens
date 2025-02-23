@@ -1,5 +1,6 @@
 #            BenevoLens
-An AI-Powered Platform for Bias Detection in Workplace and Social Environments
+An Deep Learning Powered Platform for Bias Detection in Workplace and Social Environments
+https://benevolens.net
 
 
 ![image](https://github.com/user-attachments/assets/a4f86128-a635-4842-a6d8-dbf87fd75e4f)
